@@ -1,0 +1,14 @@
+{
+  "name": "node-bg",
+  "version": "1.0.0",
+  "description": "node crash course exercises",
+  "main": "app.js",
+  "scripts": {
+    "server": "nodemon app.js"
+  },
+  "author": "onikoko Abdullahi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
